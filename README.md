@@ -1,6 +1,6 @@
 # AI Odyssey 
 
-G. H. Raisoni College of Engineering has successfully organised three exhilarating editions of AI Summit. Now, we are elated to announce AI Odyssey, a blend of AI and games. AI plays a vital role in our lives and when fused with games there is no better way to learn it.
+G.H. Raisoni College of Engineering has successfully organised three exhilarating editions of AI Summit. Now, we are elated to announce AI Odyssey, a blend of AI and games. AI plays a vital role in our lives and when fused with games there is no better way to learn it.
 
 AI Odyssey is going to be held on March 31 and April 1, 2023. Here, we will discuss AI and its functions in a fun, creative and innovative way.
 
