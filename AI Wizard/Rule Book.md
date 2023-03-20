@@ -1,0 +1,8 @@
+![AI_Wizard_RuleBook-1](https://user-images.githubusercontent.com/83494663/226392652-ecc698ce-02e6-4e62-80f2-aae7b5be5219.png)
+![AI_Wizard_RuleBook-2](https://user-images.githubusercontent.com/83494663/226392694-8d2ae798-75df-4467-8f01-857a59b9dd9a.png)
+![AI_Wizard_RuleBook-3](https://user-images.githubusercontent.com/83494663/226392700-0edc5f53-d7fd-4a50-ba9e-6818bef41310.png)
+![AI_Wizard_RuleBook-4](https://user-images.githubusercontent.com/83494663/226392712-5a14b05d-2c30-48b1-8551-9156aa12253d.png)
+![AI_Wizard_RuleBook-5](https://user-images.githubusercontent.com/83494663/226392715-db8d0b84-fca6-4215-b45f-bd8ce5f02146.png)
+![AI_Wizard_RuleBook-6](https://user-images.githubusercontent.com/83494663/226392725-0e7d5a29-ca08-4ac7-817e-89228b1737ec.png)
+![AI_Wizard_RuleBook-7](https://user-images.githubusercontent.com/83494663/226392746-d1402d30-1a1c-406e-b1c6-38b19b5d5675.png)
+![AI_Wizard_RuleBook-8](https://user-images.githubusercontent.com/83494663/226392748-3bfe29b5-ad5c-4570-b1af-dfc00b0062d1.png)
