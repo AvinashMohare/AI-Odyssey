@@ -1,3 +1,5 @@
+# AI Wizard
+
 ![AI_Wizard_RuleBook-1](https://user-images.githubusercontent.com/83494663/226392652-ecc698ce-02e6-4e62-80f2-aae7b5be5219.png)
 ![AI_Wizard_RuleBook-2](https://user-images.githubusercontent.com/83494663/226392694-8d2ae798-75df-4467-8f01-857a59b9dd9a.png)
 ![AI_Wizard_RuleBook-3](https://user-images.githubusercontent.com/83494663/226392700-0edc5f53-d7fd-4a50-ba9e-6818bef41310.png)
