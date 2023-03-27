@@ -1,5 +1,6 @@
 # Scan and Hunt
-![Scan_and_Hunt_RuleBook-1](https://user-images.githubusercontent.com/83494663/226405964-dace27e4-e027-4f48-8520-f1b49d7a4032.png)
-![Scan_and_Hunt_RuleBook-2](https://user-images.githubusercontent.com/83494663/226405968-3e69261f-87d7-4e27-8a94-7414ac0fb0b3.png)
-![Scan_and_Hunt_RuleBook-3](https://user-images.githubusercontent.com/83494663/226405990-ca84fb1b-ae98-4bcf-acfa-9e7568922ef0.png)
-![Scan_and_Hunt_RuleBook-4](https://user-images.githubusercontent.com/83494663/226406005-856b01be-4908-45a4-b767-0ac7b62b574b.png)
+
+![Scan and Hunt Poster rule book updated-1](https://user-images.githubusercontent.com/83494663/227977645-19c6f41d-6318-4c21-9178-dc74c0a8b3e9.png)
+![Scan and Hunt Poster rule book updated-2](https://user-images.githubusercontent.com/83494663/227977653-8c4ce230-33b4-4c0a-8193-d6d8e9a6b087.png)
+![Scan and Hunt Poster rule book updated-3](https://user-images.githubusercontent.com/83494663/227977693-1f1852a9-e72b-4547-a6d8-7c1fd8b3b01b.png)
+![Scan and Hunt Poster rule book updated-4](https://user-images.githubusercontent.com/83494663/227977702-8fffc272-b8d5-46a9-8877-29f55e69a777.png)
