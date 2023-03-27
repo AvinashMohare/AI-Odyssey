@@ -1,10 +1,10 @@
 # AI Wizard
 
-![AI_Wizard_RuleBook-1](https://user-images.githubusercontent.com/83494663/226392652-ecc698ce-02e6-4e62-80f2-aae7b5be5219.png)
-![AI_Wizard_RuleBook-2](https://user-images.githubusercontent.com/83494663/226392694-8d2ae798-75df-4467-8f01-857a59b9dd9a.png)
-![AI_Wizard_RuleBook-3](https://user-images.githubusercontent.com/83494663/226392700-0edc5f53-d7fd-4a50-ba9e-6818bef41310.png)
-![AI_Wizard_RuleBook-4](https://user-images.githubusercontent.com/83494663/226392712-5a14b05d-2c30-48b1-8551-9156aa12253d.png)
-![AI_Wizard_RuleBook-5](https://user-images.githubusercontent.com/83494663/226392715-db8d0b84-fca6-4215-b45f-bd8ce5f02146.png)
-![AI_Wizard_RuleBook-6](https://user-images.githubusercontent.com/83494663/226392725-0e7d5a29-ca08-4ac7-817e-89228b1737ec.png)
-![AI_Wizard_RuleBook-7](https://user-images.githubusercontent.com/83494663/226392746-d1402d30-1a1c-406e-b1c6-38b19b5d5675.png)
-![AI_Wizard_RuleBook-8](https://user-images.githubusercontent.com/83494663/226392748-3bfe29b5-ad5c-4570-b1af-dfc00b0062d1.png)
+![Ai_Wizard_Rulebook-1](https://user-images.githubusercontent.com/83494663/227976343-fa57d6e1-b3da-44a4-803a-de58a5fb4704.png)
+![Ai_Wizard_Rulebook-2](https://user-images.githubusercontent.com/83494663/227976352-a9f48357-557d-46d5-b5a6-38ea9a720fe8.png)
+![Ai_Wizard_Rulebook-3](https://user-images.githubusercontent.com/83494663/227976359-df4ac6b6-a925-4a6d-8fb8-135adf8dcde2.png)
+![Ai_Wizard_Rulebook-4](https://user-images.githubusercontent.com/83494663/227976365-4766bf8b-a5c3-4931-b4b6-0ebe79a2fd90.png)
+![Ai_Wizard_Rulebook-5](https://user-images.githubusercontent.com/83494663/227976372-6d3bd83f-84cc-4e7f-a233-c83c843cfa33.png)
+![Ai_Wizard_Rulebook-6](https://user-images.githubusercontent.com/83494663/227976377-8559c9c1-bb60-43df-9880-da7ae68faaf9.png)
+![Ai_Wizard_Rulebook-7](https://user-images.githubusercontent.com/83494663/227976390-49b2c780-4348-4821-9321-e57ef780d8a4.png)
+![Ai_Wizard_Rulebook-8](https://user-images.githubusercontent.com/83494663/227976398-aec76024-ae60-4332-bf62-6385864952dd.png)
